@@ -21,7 +21,7 @@ public class TestCase1 {
 	WebDriver driver= new ChromeDriver();
 	// Step 2: Enter the URL, open the app
 	
-	driver.get("http://35.184.135.176:49153/addressbook/");
+	driver.get("http://34.66.164.22:49153/addressbook/");
 	
 	// Step 3: maximize the browser window
 	
