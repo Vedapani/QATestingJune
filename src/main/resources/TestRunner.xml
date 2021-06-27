@@ -3,7 +3,7 @@
 <suite name="SeleniumTraining" verbose="1" >
   <test name="Testcycle1" >
     <classes>
-      <class name="Phptestapp"/>     
+      <class name="Phptestapp.java"/>     
     </classes>
   </test>
  
