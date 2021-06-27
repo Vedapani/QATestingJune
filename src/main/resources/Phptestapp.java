@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-public class Phptestapp {
+class Phptestapp {
 
 	public void setup() throws InterruptedException{
 		//Start chrome browser
